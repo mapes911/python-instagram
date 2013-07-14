@@ -1,3 +1,12 @@
+*** this fork merges these two pull requests
+
+https://github.com/Instagram/python-instagram/pull/35
+
+https://github.com/Instagram/python-instagram/pull/46
+
+
+
+
 python-instagram
 ======
 A Python client for the Instagram REST and Search APIs
